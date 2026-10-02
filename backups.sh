@@ -21,5 +21,4 @@ timestamp=$(date '+%Y-%M-%D-%H-%M')
 zip -r "$dest/backups-$timestamp.zip" $src
 
 
-echo "backup completed"
-
+echo "*************backup is completed**********"
