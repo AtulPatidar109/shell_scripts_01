@@ -18,3 +18,6 @@ then
 else
         echo "user exists"
 fi
+
+
+shell scripts check user is comfirmed
